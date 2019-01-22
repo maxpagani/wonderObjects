@@ -110,11 +110,9 @@ universale
 function randomSelect()
 {
   count=$(echo "$1" | wc -w )
-  rand=$(od -An -N2 -i /dev/urandom)
-  index=$(( 1+($rand % $count) ))
+  index=$(( 1+($RANDOM % $count) ))
   echo $index | \
-    select name in $1; do echo $name ; break; done 2>/dev/null | \
-      tr '_' ' '
+    select name in $1; do echo ${name//_/ } ; break; done 2>/dev/null
 }
 
 theName=$(randomSelect "$names" )
