@@ -29,8 +29,11 @@ tri
 turbo
 "
 
-names="
+names="\
+ammortizzatore
 analizzatore
+attrattore
+dematerializzatore
 flareometro
 flussometro
 funtore
@@ -40,6 +43,7 @@ globulizzatore
 gradiente
 induttore
 iniettore
+materializzatore
 misuratore
 monoide
 parzializzatore
@@ -47,6 +51,7 @@ polimerizzatore
 radimetro
 radiometro
 reattore
+repulsore
 rettificatore
 rifasatore
 rotore
