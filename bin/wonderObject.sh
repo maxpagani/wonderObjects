@@ -31,14 +31,18 @@ turbo
 
 names="\
 ammortizzatore
+abbattitore
 analizzatore
 attrattore
+catalizzatore
 dematerializzatore
 flareometro
 flussometro
+flusso_canalizzatore
 funtore
 gaussimetro
 generatore
+giratore
 globulizzatore
 gradiente
 induttore
@@ -84,6 +88,7 @@ analitico
 analogico
 a_onde_moventi
 a_sfasamento
+asimmetrico
 assiale
 a_transizioni_quantiche
 cardinale
@@ -115,6 +120,8 @@ omeotropico
 polimerico
 quantico
 radiante
+ricorsivo
+simmetrico
 solare
 tachionico
 telescopico
@@ -134,11 +141,12 @@ theName=$(randomSelect "$names" )
 theObject=$(randomSelect "$objects" )
 theQualifier=$(randomSelect "$qualifiers" )
 
-if (( $RANDOM > $MAX_RANDOM/2 ))
+random=$RANDOM
+if (( $random > $MAX_RANDOM/2 ))
 then
   thePrefix=$(randomSelect "$prefixes")
   echo -n "$thePrefix-"
-  if (( $RANDOM > $MAX_RANDOM/2 ))
+  if (( $random < $MAX_RANDOM/10 ))
   then
     otherPrefix=$(randomSelect "$prefixes")
     if [ "$thePrefix" != "$otherPrefix" ]
