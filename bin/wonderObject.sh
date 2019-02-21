@@ -61,6 +61,7 @@ rifasatore
 rotore
 sequenziatore
 sfasatore
+sminuzzatore
 smussimetro
 "
 
@@ -93,8 +94,16 @@ assiale
 a_transizioni_quantiche
 cardinale
 coassiale
+di Cauchy
+di Cochrane
+di Einstein-Rosen
+di Eulero
 differenziale
 digitale
+di Pascal
+di Tesla
+di Turing
+di Watt
 endotermico
 entropico
 enzimatico
