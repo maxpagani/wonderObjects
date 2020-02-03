@@ -65,6 +65,7 @@ smussimetro
 "
 
 objects="
+atomico
 di_antimateria
 di_atomi
 di_campo
@@ -90,6 +91,7 @@ a_onde_moventi
 a_sfasamento
 asimmetrico
 assiale
+atomico
 a_transizioni_quantiche
 cardinale
 coassiale
@@ -113,6 +115,7 @@ isocrono
 laser
 logistico
 magnetico
+molecolare
 monadico
 nanotecnologico
 nucleare
