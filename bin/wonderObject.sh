@@ -65,7 +65,7 @@ sminuzzatore
 smussimetro
 "
 
-objects="
+objects="\
 atomico
 di_antimateria
 di_atomi
@@ -78,7 +78,7 @@ di_tachioni
 per_siluro
 "
 
-qualifiers="
+qualifiers="\
 a_inversione_di_fase
 abeliano
 adiabatico
@@ -96,16 +96,16 @@ atomico
 a_transizioni_quantiche
 cardinale
 coassiale
-di Cauchy
-di Cochrane
-di Einstein-Rosen
-di Eulero
+di_Cauchy
+di_Cochrane
+di_Einstein-Rosen
+di_Eulero
 differenziale
 digitale
-di Pascal
-di Tesla
-di Turing
-di Watt
+di_Pascal
+di_Tesla
+di_Turing
+di_Watt
 endotermico
 entropico
 enzimatico
