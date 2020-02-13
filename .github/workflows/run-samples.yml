@@ -9,6 +9,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    - name: checking workding directory
+      run: pwd
     - name: Run wonderObjects.sh
       run: bin/wonderObjects.sh
     - name: Run makeExcuse.sh
