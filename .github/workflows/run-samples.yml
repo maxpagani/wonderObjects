@@ -12,4 +12,4 @@ jobs:
     - name: Run wonderObjects.sh
       run: bin/wonderObject.sh
     - name: Run makeExcuse.sh
-      run: PATH=bin bin/makeExcuse.sh
+      run: PATH="$PATH:bin" bin/makeExcuse.sh
