@@ -24,6 +24,8 @@ articleFor()
 excuses=(
   '$subject era controintuitivo'
   '$subject era fuori fase'
+  '$subject era in congiuntura'
+  '$subject era in crash'
   '$subject era in manutenzione'
   '$subject era in ricarica'
   '$subject era in sovraccarico'
@@ -42,6 +44,8 @@ excuses=(
   '$subject non funzionava'
   '$subject rischiava di esplodere'
   'non potevo aspettare che $subject si riposizionasse' 
+  'non potevo aspettare che $subject si rifasasse' 
+  'non potevo aspettare che $subject si ripristinasse' 
   'non sono riuscito a trovare $subject'
   'qualcuno ha spostato $subject'
 )
