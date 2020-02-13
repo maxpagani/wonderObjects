@@ -12,5 +12,8 @@ Alternatively you can clone this repository anywhere on your local disk and then
 ## Usage
 No brainer: type wonderObject.sh at command prompt.
 
+## Bonus - fake excuses generator
+As a bonus you'll get also makeExcuse.sh a handy script that uses wonderObject.sh to produce unlikley excuses.
+
 ## System Requirements
 Every Un\*x derivative system should be able to run this script. I have tested it on Linux, but I expect no problems with Mac and cygwin/Windows machines.
