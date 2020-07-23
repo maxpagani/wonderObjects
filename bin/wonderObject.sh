@@ -35,10 +35,14 @@ abbattitore
 analizzatore
 attrattore
 catalizzatore
+catamorfimetro
 dematerializzatore
+fasimetro
 flareometro
 flussometro
+flussore
 flusso_canalizzatore
+funtometro
 funtore
 gaussimetro
 generatore
@@ -72,6 +76,8 @@ di_atomi
 di_campo
 di_dilitio
 di_ioni
+di_materia_esotica
+di_materia_oscura
 di_molecole
 di_onde_gravitazionali
 di_tachioni
@@ -88,6 +94,7 @@ al_dilitio
 amorfo
 analitico
 analogico
+anamorfico
 a_onde_moventi
 a_sfasamento
 asimmetrico
@@ -95,6 +102,7 @@ assiale
 atomico
 a_transizioni_quantiche
 cardinale
+catamorfico
 coassiale
 di_Cauchy
 di_Cochrane
@@ -119,9 +127,11 @@ inerte
 inerziale
 integrale
 ionico
+iperbolico
 isotropico
 isocrono
 laser
+logaritmico
 logistico
 magnetico
 molecolare
@@ -129,6 +139,8 @@ monadico
 nanotecnologico
 nucleare
 omeotropico
+omomorfico
+parabolico
 polimerico
 quantico
 radiante
@@ -138,6 +150,7 @@ solare
 tachionico
 telescopico
 trifasico
+trigonometrico
 universale
 "
 
